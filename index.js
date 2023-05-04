@@ -5,8 +5,6 @@ const cors = require('cors')
 
 const chef = require('./data/chef.json')
 
-const recipe = require(`http://localhost:5000/chef/:id}`)
-
 app.use(cors())
 
 app.get('/chef', (req, res)=> {
