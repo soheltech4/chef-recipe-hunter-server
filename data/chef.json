@@ -1,0 +1,436 @@
+{
+    "chefs": 
+    [
+        {
+            "id": 1,
+            "chef_name": "John Smith",
+            "years_of_experience": 10,
+            "num_of_recipes": 200,
+            "likes": 15000,
+            "picture_url": "https://ibb.co/ChcLV01",
+            "view_recipes_button": "https://example.com/john-smith-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Grilled Salmon",
+                    "ingredients": [
+                        "1 lb salmon fillet",
+                        "2 tbsp olive oil",
+                        "1 tsp salt",
+                        "1 tsp black pepper",
+                        "1 lemon"
+                    ],
+                    "cooking_method": [
+                        "Preheat grill to medium-high heat.",
+                        "Brush salmon with olive oil and sprinkle with salt and pepper.",
+                        "Place salmon on grill skin side down and cook for 5-7 minutes.",
+                        "Carefully flip salmon over and cook for an additional 3-4 minutes, or until cooked through.",
+                        "Serve with lemon wedges."
+                    ],
+                    "rating": 4.9,
+                    "favorite_button": "https://example.com/john-smith-grilled-salmon-favorite"
+                },
+                {
+                    "recipe_name": "Chicken Alfredo",
+                    "ingredients": [
+                        "1 lb fettuccine",
+                        "2 chicken breasts",
+                        "2 cloves garlic",
+                        "1/2 cup heavy cream",
+                        "1/2 cup grated Parmesan cheese"
+                    ],
+                    "cooking_method": [
+                        "Cook fettuccine according to package instructions.",
+                        "Season chicken with salt and pepper and cook in a large skillet over medium heat until cooked through.",
+                        "Add garlic to skillet and cook for 1-2 minutes.",
+                        "Stir in heavy cream and Parmesan cheese and bring to a simmer.",
+                        "Serve sauce over cooked fettuccine and top with sliced chicken."
+                    ],
+                    "rating": 4.6,
+                    "favorite_button": "https://example.com/john-smith-chicken-alfredo-favorite"
+                },
+                {
+                    "recipe_name": "Apple Pie",
+                    "ingredients": [
+                        "6 cups sliced apples",
+                        "3/4 cup white sugar",
+                        "1 tsp ground cinnamon",
+                        "1/4 tsp ground nutmeg",
+                        "1/4 tsp salt"
+                    ],
+                    "cooking_method": [
+                        "Preheat oven to 375°F.",
+                        "Combine apples, sugar, cinnamon, nutmeg, and salt in a large mixing bowl.",
+                        "Pour mixture into a 9-inch pie dish.",
+                        "Bake for 45-50 minutes, or until crust is golden brown and filling is bubbling.",
+                        "Cool for at least 30 minutes before serving."
+                    ],
+                    "rating": 4.8,
+                    "favorite_button": "https://example.com/john-smith-apple-pie-favorite"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "chef_name": "Maria Rodriguez",
+            "years_of_experience": 15,
+            "num_of_recipes": 250,
+            "likes": 18000,
+            "picture_url": "https://ibb.co/ChcLV01",
+            "view_recipes_button": "https://example.com/maria-rodriguez-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Taco Salad",
+                    "ingredients": [
+                        "1 lb ground beef",
+                        "1 head lettuce",
+                        "1 can black beans",
+                        "1 cup salsa",
+                        "1/2 cup shredded cheese"
+                    ],
+                    "cooking_method": [
+                        "Cook ground beef in a large skillet over medium heat until browned.",
+                        "Chop lettuce and place in a large mixing bowl.",
+                        "Add black beans and cooked ground beef to the mixing bowl.",
+                        "Top with salsa and shredded cheese.",
+                        "Toss salad and serve."
+                    ],
+                    "rating": 4.5,
+                    "favorite_button": "https://example.com/maria-rodriguez-taco-salad-favorite"
+                },
+                {
+                    "recipe_name": "Chicken Enchiladas",
+                    "ingredients": [
+                        "2 chicken breasts",
+                        "1 can enchilada sauce",
+                        "8 corn tortillas",
+                        "1/2 cup shredded cheese",
+                        "1/4 cup chopped cilantro"
+                    ],
+                    "cooking_method": [
+                        "Preheat oven to 375°F.",
+                        "Season chicken with salt and pepper and bake in a small baking dish for 25-30 minutes, or until cooked through.",
+                        "Shred chicken and mix with 1/2 can of enchilada sauce.",
+                        "Spread remaining enchilada sauce on the bottom of a large baking dish.",
+                        "Fill each tortilla with chicken mixture and roll up tightly.",
+                        "Place rolled tortillas in the baking dish and sprinkle with shredded cheese.",
+                        "Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+                        "Top with chopped cilantro and serve."
+                    ],
+                    "rating": 4.7,
+                    "favorite_button": "https://example.com/maria-rodriguez-chicken-enchiladas-favorite"
+                },
+                {
+                    "recipe_name": "Churros",
+                    "ingredients": [
+                        "1 cup water",
+                        "2 tbsp sugar",
+                        "1/2 tsp salt",
+                        "2 tbsp vegetable oil",
+                        "1 cup all-purpose flour"
+                    ],
+                    "cooking_method": [
+                        "Combine water, sugar, salt, and vegetable oil in a medium saucepan and bring to a boil.",
+                        "Remove from heat and stir in flour until mixture forms a ball.",
+                        "Transfer mixture to a piping bag with a star tip.",
+                        "Heat vegetable oil in a large skillet over medium heat.",
+                        "Pipe dough into hot oil in strips and fry until golden brown.",
+                        "Remove churros from oil and place on a paper towel-lined plate to cool.",
+                        "Dust churros with cinnamon sugar and serve."
+                    ],
+                    "rating": 4.9,
+                    "favorite_button": "https://example.com/maria-rodriguez-churros-favorite"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "chef_name": "David Lee",
+            "years_of_experience": 8,
+            "num_of_recipes": 150,
+            "likes": 12000,
+            "picture_url": "https://ibb.co/ChcLV01",
+            "view_recipes_button": "https://example.com/david-lee-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Pad Thai",
+                    "ingredients": [
+                        "8 oz rice noodles",
+                        "2 chicken breasts",
+                        "2 cloves garlic",
+                        "2 tbsp vegetable oil",
+                        "1 egg"
+                    ],
+                    "cooking_method": [
+                        "Cook rice noodles according to package instructions.",
+                        "Season chicken with salt and pepper and cook in a large skillet over medium heat until cooked through.",
+                        "Add garlic to skillet and cook for 1-2 minutes.",
+                        "Push chicken and garlic to the side of the skillet and crack an egg into the empty space.",
+                        "Scramble egg and then stir together with chicken and garlic.",
+                        "Add cooked rice noodles to skillet and stir to combine.",
+                        "Serve hot."
+                    ],
+                    "rating": 4.6,
+                    "favorite_button": "https://example.com/david-lee-pad-thai-favorite"
+                },
+                {
+                    "recipe_name": "Beef Stroganoff",
+                    "ingredients": [
+                        "1 lb beef sirloin",
+                        "1 onion, chopped",
+                        "1 clove garlic, minced",
+                        "8 oz sliced mushrooms",
+                        "1 can beef broth",
+                        "1/2 cup sour cream"
+                    ],
+                    "cooking_method": [
+                        "Cut beef into thin strips.",
+                        "In a large skillet, cook onion and garlic over medium heat until softened.",
+                        "Add beef to skillet and cook until browned.",
+                        "Add mushrooms to skillet and cook until softened.",
+                        "Pour in beef broth and bring to a simmer.",
+                        "Reduce heat to low and simmer for 10-15 minutes, or until sauce has thickened.",
+                        "Remove from heat and stir in sour cream.",
+                        "Serve over egg noodles."
+                    ],
+                    "rating": 4.8,
+                    "favorite_button": "https://example.com/david-lee-beef-stroganoff-favorite"
+                },
+                {
+                    "recipe_name": "Kimchi Fried Rice",
+                    "ingredients": [
+                        "2 cups cooked rice",
+                        "1 cup chopped kimchi",
+                        "4 oz sliced pork belly",
+                        "1 tbsp vegetable oil",
+                        "1 egg"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet, cook pork belly over medium heat until browned.",
+                        "Add vegetable oil to skillet and stir in cooked rice and kimchi.",
+                        "Cook for 2-3 minutes, stirring occasionally.",
+                        "Push rice and kimchi to the side of the skillet and crack an egg into the empty space.",
+                        "Scramble egg and then stir together with rice and kimchi.",
+                        "Serve hot."
+                    ],
+                    "rating": 4.4,
+                    "favorite_button": "https://example.com/david-lee-kimchi-fried-rice-favorite"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "chef_name": "Julia Hernandez",
+            "years_of_experience": 5,
+            "num_of_recipes": 80,
+            "likes": 8000,
+            "picture_url": "https://ibb.co/ChcLV01",
+            "view_recipes_button": "https://example.com/julia-hernandez-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Mole Chicken",
+                    "ingredients": [
+                        "2 chicken breasts",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1/2 cup mole sauce",
+                        "1/4 cup chopped cilantro"
+                    ],
+                    "cooking_method": [
+                        "Season chicken with salt and pepper and cook in a large skillet over medium heat until cooked through.",
+                        "Remove chicken from skillet and set aside.",
+                        "Add onion and garlic to skillet and cook until softened.",
+                        "Stir in mole sauce and cook for 2-3 minutes.",
+                        "Return chicken to skillet and coat with mole sauce.",
+                        "Top with chopped cilantro and serve."
+                    ],
+                    "rating": 4.7,
+                    "favorite_button": "https://example.com/julia-hernandez-mole-chicken-favorite"
+                },
+                {
+                    "recipe_name": "Fish Tacos",
+                    "ingredients": [
+                        "1 lb white fish",
+                        "1/4 cup flour",
+                        "1/4 tsp chili powder",
+                        "1/4 tsp cumin",
+                        "1/4 tsp salt"
+                    ],
+                    "cooking_method": [
+                        "Season fish with salt and pepper.",
+                        "In a shallow dish, mix together flour, chili powder, cumin, and salt.",
+                        "Dredge fish in flour mixture and shake off excess.",
+                        "In a large skillet, cook fish over medium-high heat until browned and cooked through.",
+                        "Serve in warm tortillas with your choice of toppings."
+                    ],
+                    "rating": 4.5,
+                    "favorite_button": "https://example.com/julia-hernandez-fish-tacos-favorite"
+                },
+                {
+                    "recipe_name": "Spicy Shrimp Stir-Fry",
+                    "ingredients": [
+                        "1 lb shrimp, peeled and deveined",
+                        "2 cups mixed vegetables (bell peppers, snap peas, carrots, broccoli, etc.)",
+                        "2 cloves garlic, minced",
+                        "1 tbsp grated ginger",
+                        "2 tbsp soy sauce"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet or wok, heat oil over high heat.",
+                        "Add shrimp and cook until pink, about 2-3 minutes.",
+                        "Remove shrimp from skillet and set aside.",
+                        "Add vegetables to skillet and cook until tender-crisp, about 3-4 minutes.",
+                        "Add garlic and ginger and cook for 1 minute.",
+                        "Return shrimp to skillet and stir in soy sauce.",
+                        "Serve hot over rice."
+                    ],
+                    "rating": 4.9,
+                    "favorite_button": "https://example.com/julia-hernandez-spicy-shrimp-stir-fry-favorite"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "chef_name": "Sophie Chan",
+            "years_of_experience": 7,
+            "num_of_recipes": 120,
+            "likes": 12000,
+            "picture_url": "https://ibb.co/ChcLV01",
+            "view_recipes_button": "https://example.com/sophie-chan-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Beef and Broccoli",
+                    "ingredients": [
+                        "1 lb flank steak, sliced thinly",
+                        "1 head broccoli, cut into florets",
+                        "1 onion, sliced",
+                        "2 cloves garlic, minced",
+                        "1/4 cup soy sauce"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet or wok, heat oil over high heat.",
+                        "Add beef and cook until browned, about 2-3 minutes.",
+                        "Remove beef from skillet and set aside.",
+                        "Add broccoli and onion to skillet and cook until tender-crisp, about 3-4 minutes.",
+                        "Add garlic and cook for 1 minute.",
+                        "Return beef to skillet and stir in soy sauce.",
+                        "Serve hot over rice."
+                    ],
+                    "rating": 4.6,
+                    "favorite_button": "https://example.com/sophie-chan-beef-broccoli-favorite"
+                },
+                {
+                    "recipe_name": "Shrimp Scampi",
+                    "ingredients": [
+                        "1 lb shrimp, peeled and deveined",
+                        "2 cloves garlic, minced",
+                        "2 tbsp butter",
+                        "1/4 cup white wine",
+                        "1/4 cup chopped parsley"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet, melt butter over medium heat.",
+                        "Add shrimp and garlic to skillet and cook until pink, about 2-3 minutes.",
+                        "Remove shrimp from skillet and set aside.",
+                        "Add white wine to skillet and cook for 1-2 minutes.",
+                        "Stir in chopped parsley.",
+                        "Return shrimp to skillet and coat with sauce.",
+                        "Serve hot over pasta."
+                    ],
+                    "rating": 4.8,
+                    "favorite_button": "https://example.com/sophie-chan-shrimp-scampi-favorite"
+                },
+                {
+                    "recipe_name": "Pad Thai",
+                    "ingredients": [
+                        "8 oz rice noodles",
+                        "2 tbsp vegetable oil",
+                        "2 cloves garlic, minced",
+                        "1/4 cup chopped peanuts",
+                        "2 eggs"
+                    ],
+                    "cooking_method": [
+                        "Soak rice noodles in hot water for 10-15 minutes, or until softened.",
+                        "In a large skillet or wok, heat oil over high heat.",
+                        "Add garlic and cook for 1 minute.",
+                        "Add eggs to skillet and scramble.",
+                        "Add rice noodles to skillet and stir to combine.",
+                        "Stir in chopped peanuts and serve hot."
+                    ],
+                    "rating": 4.7,
+                    "favorite_button": "https://example.com/sophie-chan-pad-thai-favorite"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "chef_name": "David Rodriguez",
+            "years_of_experience": 12,
+            "num_of_recipes": 150,
+            "likes": 18000,
+            "picture_url": "https://ibb.co/4FYQPX0",
+            "view_recipes_button": "https://example.com/david-rodriguez-recipes",
+            "recipes": [
+                {
+                    "recipe_name": "Chicken Fajitas",
+                    "ingredients": [
+                        "1 lb chicken breast, sliced thinly",
+                        "1 onion, sliced",
+                        "1 red bell pepper, sliced",
+                        "1 green bell pepper, sliced",
+                        "2 cloves garlic, minced"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet or wok, heat oil over high heat.",
+                        "Add chicken and cook until browned, about 5-7 minutes.",
+                        "Remove chicken from skillet and set aside.",
+                        "Add onion and peppers to skillet and cook until tender-crisp, about 3-4 minutes.",
+                        "Add garlic and cook for 1 minute.",
+                        "Return chicken to skillet and stir to combine.",
+                        "Serve hot with tortillas and toppings of your choice."
+                    ],
+                    "rating": 4.5,
+                    "favorite_button": "https://example.com/david-rodriguez-chicken-fajitas-favorite"
+                },
+                {
+                    "recipe_name": "Spicy Sausage Pasta",
+                    "ingredients": [
+                        "1 lb spicy sausage, sliced",
+                        "8 oz penne pasta",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 can diced tomatoes"
+                    ],
+                    "cooking_method": [
+                        "Cook pasta according to package directions.",
+                        "In a large skillet, cook sausage over medium heat until browned, about 5-7 minutes.",
+                        "Remove sausage from skillet and set aside.",
+                        "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+                        "Add diced tomatoes to skillet and bring to a simmer.",
+                        "Return sausage to skillet and stir to combine.",
+                        "Serve hot over pasta."
+                    ],
+                    "rating": 4.7,
+                    "favorite_button": "https://example.com/david-rodriguez-spicy-sausage-pasta-favorite"
+                },
+                {
+                    "recipe_name": "Beef Tacos",
+                    "ingredients": [
+                        "1 lb ground beef",
+                        "1 onion, chopped",
+                        "1 tsp chili powder",
+                        "1 tsp cumin",
+                        "1 tsp garlic powder"
+                    ],
+                    "cooking_method": [
+                        "In a large skillet, cook ground beef over medium heat until browned, about 5-7 minutes.",
+                        "Add onion to skillet and cook until softened, about 3-4 minutes.",
+                        "Stir in chili powder, cumin, and garlic powder.",
+                        "Serve hot with tortillas and toppings of your choice."
+                    ],
+                    "rating": 4.6,
+                    "favorite_button": "https://example.com/david-rodriguez-beef-tacos-favorite"
+                }
+            ]
+        }
+    ]
+}
